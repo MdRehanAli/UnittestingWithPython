@@ -9,4 +9,4 @@ def isPrimeOrNot(num):
             return False
         return True
 
-print(isPrimeOrNot(10))
+# print(isPrimeOrNot(10))
