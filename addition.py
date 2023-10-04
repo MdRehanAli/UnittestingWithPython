@@ -5,4 +5,4 @@ def additions(num):
         sum += i
     return sum
 
-print(additions(10))
+# print(additions(10))
